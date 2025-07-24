@@ -4,7 +4,7 @@ import {
   addPost,
   updatePost,
   deletePost,
-} from "../model/post.js";
+} from "../Repository/post.js";
 
 export const getAllPosts = async (_req, res) => {
   const post = await getAllPost();
