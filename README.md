@@ -4,7 +4,7 @@ Gestion des posts avec React (Vite + Tailwind CSS) en frontend, Node.js (Express
 
 ---
 
-## 📁 Structure du 
+## Structure du 
 
  projet-test-seomaniak/
 ├── frontend/ → Interface utilisateur (React, Tailwind CSS, Vite)
@@ -22,7 +22,7 @@ Gestion des posts avec React (Vite + Tailwind CSS) en frontend, Node.js (Express
 
 ---
 
-## 🔧 Installation
+## Installation
 
 ### 1. Cloner le projet
 
@@ -77,7 +77,7 @@ Comme Creer un post, modifier un post, supprimer un post.
 
 
 
-📦 Dépendances principales
+# Dépendances principales
 Frontend :
 React
 Tailwind CSS
